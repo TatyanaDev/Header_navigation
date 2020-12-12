@@ -62,5 +62,5 @@ p {
 .list-item:hover > .sub-sub-nav-list {
   display: block;
   left: 100%;
-  top: 0%;
+  top: -1px;
 }
